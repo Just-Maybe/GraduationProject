@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_marginTop="15dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_comment_head"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/tv_comment_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/iv_comment_head"
+        android:text="dend"
+        android:textColor="@color/colorSecondaryText"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/tv_comment_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_comment_name"
+        android:layout_marginBottom="12dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/iv_comment_head"
+        android:text="设施够标准，卫生也很好。房间及走廊地毯味太大！空调师傅竟然不会开空调，给我们开了一夜冷空调，把我老伴都冻感冒了"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/tv_comment_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_comment_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/iv_comment_head"
+        android:text="2018-2-3 12:00" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/tv_comment_time"
+        android:background="@color/colorSecondaryText"/>
+</RelativeLayout>

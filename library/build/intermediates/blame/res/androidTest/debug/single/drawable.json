@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\state_unavailable.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\state_unavailable.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_remind_phone.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_remind_phone.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\loading_progress_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\loading_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\state_selected.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\state_selected.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\6e4a422d2528271491cfa8cb0a6786cb\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_select.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_select.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\day_text_color.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\day_text_color.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_gray_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\image_gray_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\calendar_text_selector.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\calendar_text_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_network_error_reload.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_network_error_reload.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_shape_white.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_shape_white.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\no_banner.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\556ad0ff1505a55169796afb890c0110\\res\\drawable\\no_banner.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_state_pressed.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_state_pressed.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_bound_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\image_bound_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\556ad0ff1505a55169796afb890c0110\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\state_deactivated.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable\\state_deactivated.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\556ad0ff1505a55169796afb890c0110\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\6e4a422d2528271491cfa8cb0a6786cb\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line_divider.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\banner-1.4.10.aar\\556ad0ff1505a55169796afb890c0110\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_nav_btn.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_nav_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\self_progress_web.xml",
+        "source": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\self_progress_web.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\4497c6be68ed8b7a7756ffcfd88048d5\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    }
+]

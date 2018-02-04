@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/widget_toolbar_title_red" />
+
+    <RadioGroup
+        android:orientation="horizontal"
+        android:id="@+id/rg_order"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_order_bg">
+
+
+            <RadioButton
+                android:id="@+id/rb_current_order"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector_order_tab_bg"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="当前订单"
+                android:textColor="@color/selector_order_tab_text" />
+
+            <RadioButton
+                android:id="@+id/rb_history_order"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector_order_tab_bg"
+                android:button="@null"
+                android:gravity="center"
+                android:text="已完成"
+                android:textColor="@color/selector_order_tab_text" />
+    </RadioGroup>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_order"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:overScrollMode="never"
+        android:layout_height="match_parent"/>
+</LinearLayout>

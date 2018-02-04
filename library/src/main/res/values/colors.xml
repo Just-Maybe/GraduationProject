@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffff</color>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#03a9f4</color>
+    <color name="colorLoginBg">#0097a7</color>
+
+
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorText">#ffffff</color>
+    <color name="mainColor">#00BCD4</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="black">#000000</color>
+    <color name="C_ff5a2e">#ff5a2e</color>
+    <color name="C_06xcc3a">#06cc3a</color>
+    <color name="C_1760d9">#1760d9</color>
+    <color name="text_333333">#333333</color>
+    <color name="text_666666">#666666</color>
+    <color name="text_999999">#999999</color>
+    <color name="diver_dcdcdc">#dcdcdc</color>
+    <color name="bgColor">#fcfcfb</color>
+    <color name="pressColor">#661b1b1b</color>
+    <color name="divider">#DBDBDB</color>
+
+
+    <color name="startMainColor">#7c26c6da</color>
+    <color name="centerMainColor">#c626c6da</color>
+    <color name="endMainColor">#26c6da</color>
+
+</resources>

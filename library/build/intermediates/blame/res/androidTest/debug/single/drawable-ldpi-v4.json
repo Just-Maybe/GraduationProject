@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\state_range_middle.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable-ldpi-v4\\state_range_middle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\state_range_middle_unavailable.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable-ldpi-v4\\state_range_middle_unavailable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\state_range_first.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable-ldpi-v4\\state_range_first.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\GraduationProject\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\state_range_last.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\rangepicker-1.0.1.aar\\54254f0181050536b74d77ad5a36fa36\\res\\drawable-ldpi-v4\\state_range_last.png"
+    }
+]

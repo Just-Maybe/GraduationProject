@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:1:70-91
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:3:5-10:19
+	android:label
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:3:45-77
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:3:18-44
+activity#com.library.activity.ImageActivity
+ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:5:9-8:54
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:7:13-44
+	android:theme
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:8:13-51
+	android:name
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml:6:13-51
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\GraduationProject\library\src\main\AndroidManifest.xml

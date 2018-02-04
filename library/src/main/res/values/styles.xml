@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="TTWAppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorAccent</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorAccent</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--<item name="android:windowBackground">@color/bgColor</item>-->
+        <!--<item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>-->
+    <!--</style>-->
+
+    <style name="MyStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <!--<style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">-->
+        <!--<item name="android:background">@drawable/vpi__tab_indicator</item>-->
+        <!--<item name="android:textSize">@dimen/px28dp</item>-->
+        <!--<item name="android:textColor">@color/indicate_selector</item>-->
+        <!--<item name="android:dividerPadding">15dp</item>-->
+        <!--<item name="android:dividerHeight">4dp</item>-->
+        <!--<item name="android:showDividers">middle</item>-->
+        <!--<item name="android:paddingLeft">10dp</item>-->
+        <!--<item name="android:paddingRight">10dp</item>-->
+        <!--<item name="android:fadingEdge">horizontal</item>-->
+        <!--<item name="android:fadingEdgeLength">8dp</item>-->
+    <!--</style>-->
+
+
+
+    <style name="content">
+        <item name="android:background">@color/bgColor</item>
+    </style>
+
+    <!--标题栏文字-->
+    <style name="Title_Text">
+        <item name="android:textColor">@color/text_333333</item>
+        <item name="android:textSize">@dimen/px34dp</item>
+    </style>
+
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <!--<item name="android:windowBackground">@color/transparent</item>-->
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateHidden|adjustResize</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="selectorDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <!--<item name="android:windowBackground">@color/transparent</item>&lt;!&ndash;背景透明&ndash;&gt;-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="NoTranDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateHidden|adjustResize</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="dialog_fragment_fade_anim">
+        <item name="android:windowEnterAnimation">@anim/dialog_fragment_fadein</item>
+        <item name="android:windowExitAnimation">@anim/dialog_fragment_fadeout</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="anim_popup_dir">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+
+    <style name="bottom_int_out_dialog_style" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="Transparent" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--将Activity的Theme设置成透明-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bgColor</item>
+        <!--<item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>-->
+    </style>
+
+    <style name="selfProgressWeb" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/self_progress_web</item>
+        <item name="android:minHeight">2dp</item>
+        <item name="android:maxHeight">2dp</item>
+    </style>
+
+    <!--<style name="picturestyle" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--&lt;!&ndash;标题栏背景色&ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/mainColor</item>-->
+        <!--&lt;!&ndash;状态栏背景色&ndash;&gt;-->
+        <!--<item name="colorPrimaryDark">@color/mainColor</item>-->
+        <!--&lt;!&ndash;是否改变图片列表界面状态栏字体颜色为黑色&ndash;&gt;-->
+        <!--<item name="picture.statusFontColor">false</item>-->
+        <!--&lt;!&ndash;返回键图标&ndash;&gt;-->
+        <!--<item name="picture.leftBack.icon">@drawable/icon_back_white</item>-->
+        <!--&lt;!&ndash;标题下拉箭头&ndash;&gt;-->
+        <!--<item name="picture.arrow_down.icon">@drawable/tag_close_icon</item>-->
+        <!--&lt;!&ndash;标题上拉箭头&ndash;&gt;-->
+        <!--<item name="picture.arrow_up.icon">@drawable/tag_open_icon</item>-->
+        <!--&lt;!&ndash;标题文字颜色&ndash;&gt;-->
+        <!--<item name="picture.title.textColor">@color/text_333333</item>-->
+        <!--&lt;!&ndash;标题栏右边文字&ndash;&gt;-->
+        <!--<item name="picture.right.textColor">@color/text_333333</item>-->
+        <!--&lt;!&ndash;图片列表勾选样式&ndash;&gt;-->
+        <!--<item name="picture.checked.style">@drawable/picture_select</item>-->
+        <!--&lt;!&ndash;开启图片列表勾选数字模式&ndash;&gt;-->
+        <!--<item name="picture.style.checkNumMode">false</item>-->
+        <!--&lt;!&ndash;选择图片样式0/9&ndash;&gt;-->
+        <!--<item name="picture.style.numComplete">false</item>-->
+        <!--&lt;!&ndash;图片列表底部背景色&ndash;&gt;-->
+        <!--<item name="picture.bottom.bg">@color/mainColor</item>-->
+        <!--&lt;!&ndash;图片列表预览文字颜色&ndash;&gt;-->
+        <!--<item name="picture.preview.textColor">@color/white</item>-->
+        <!--&lt;!&ndash;图片列表已完成文字颜色&ndash;&gt;-->
+        <!--<item name="picture.complete.textColor">@color/white</item>-->
+        <!--&lt;!&ndash;图片已选数量圆点背景色&ndash;&gt;-->
+        <!--<item name="picture.num.style">@drawable/num_oval</item>-->
+        <!--&lt;!&ndash;预览界面标题文字颜色&ndash;&gt;-->
+        <!--<item name="picture.ac_preview.title.textColor">@color/white</item>-->
+        <!--&lt;!&ndash;预览界面已完成文字颜色&ndash;&gt;-->
+        <!--<item name="picture.ac_preview.complete.textColor">@color/white</item>-->
+        <!--&lt;!&ndash;预览界面标题栏背景色&ndash;&gt;-->
+        <!--<item name="picture.ac_preview.title.bg">@color/mainColor</item>-->
+        <!--&lt;!&ndash;预览界面底部背景色&ndash;&gt;-->
+        <!--<item name="picture.ac_preview.bottom.bg">@color/mainColor</item>-->
+        <!--&lt;!&ndash;预览界面状态栏颜色&ndash;&gt;-->
+        <!--<item name="picture.status.color">@color/mainColor</item>-->
+        <!--&lt;!&ndash;预览界面返回箭头&ndash;&gt;-->
+        <!--<item name="picture.preview.leftBack.icon">@drawable/icon_back_white</item>-->
+        <!--&lt;!&ndash;是否改变预览界面状态栏字体颜色为黑色&ndash;&gt;-->
+        <!--<item name="picture.preview.statusFontColor">false</item>-->
+        <!--&lt;!&ndash;裁剪页面标题背景色&ndash;&gt;-->
+        <!--<item name="picture.crop.toolbar.bg">@color/mainColor</item>-->
+        <!--&lt;!&ndash;裁剪页面状态栏颜色&ndash;&gt;-->
+        <!--<item name="picture.crop.status.color">@color/mainColor</item>-->
+        <!--&lt;!&ndash;裁剪页面标题文字颜色&ndash;&gt;-->
+        <!--<item name="picture.crop.title.color">@color/white</item>-->
+        <!--&lt;!&ndash;相册文件夹列表选中图标&ndash;&gt;-->
+        <!--<item name="picture.folder_checked_dot">@drawable/orange_oval</item>-->
+    <!--</style>-->
+
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/px28dp</item>
+    </style>
+</resources>

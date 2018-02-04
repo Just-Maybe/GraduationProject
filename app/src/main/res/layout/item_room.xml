@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="150dp"
+    android:layout_height="90dp"
+    android:layout_marginRight="15dp"
+    android:background="@color/white"
+    app:cardCornerRadius="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_room_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="商务房"
+            android:textColor="@color/colorPrimaryText" />
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:id="@+id/tv_room_bed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="两张单人床"
+            android:textColor="@color/colorSecondaryText" />
+
+
+        <TextView
+            android:layout_marginTop="7dp"
+            android:id="@+id/tv_room_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_room_bed"
+            android:layout_centerHorizontal="true"
+            android:text="￥ 188"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
